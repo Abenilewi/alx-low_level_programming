@@ -2,6 +2,7 @@
 
 /**
  * main - Entry point
+ * @printf: printf task
  *
  * Return: Always 0 (Success)
  */
