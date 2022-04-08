@@ -1,10 +1,11 @@
 #include <stdio.h>
+
 /**
- * main - Entry point
- *combination of three numbers
+ * main - print all possible combination
  *
- * return: 0 Always
+ * Return: Always (Success)
  */
+
 int main(void)
 {
 int digit1, digit2, digit3;
