@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main 
+ * main - print alphabet 
  *
  * Return: Always (Success)
  */
@@ -14,5 +14,5 @@ int main(void)
 
 	putchar('\n');
 	return (0);
-
 }
+
