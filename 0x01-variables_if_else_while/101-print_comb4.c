@@ -4,7 +4,9 @@
  *combination of three numbers
  * return: 0 Always
  */
+
 int main(void)
+
 {
 int digit1, digit2, digit3;
 for (digit1 = 0; digit1 < 8; digit1++)
