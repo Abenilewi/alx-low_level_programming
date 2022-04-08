@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  *combination of three numbers
- * return: Always 0.
+ * return: 0 Always
  */
 int main(void)
 {
