@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-  * main 
+  * main - smile in the mirror
   *
   * Return: Always (Success)
   */

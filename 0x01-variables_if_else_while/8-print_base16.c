@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-  * main
+  * main - print base 16 hexadecimal
   *
   * Return: Always (Success)
   */
@@ -24,4 +24,3 @@ int main(void)
 	return (0);
 
 }
-
