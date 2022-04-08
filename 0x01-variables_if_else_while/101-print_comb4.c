@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - print combination
- *
+ * main - Entry point
+ *combination of three numbers
  * return: Always 0.
  */
 int main(void)
