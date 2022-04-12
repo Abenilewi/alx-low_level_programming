@@ -2,18 +2,9 @@
 /**
  * main - entry block
  *
- * return: 0
+ * return : 0
  */
-int main(void)
+int _putchar(char c)
 {
-	char a[] = "_putchar"
-
-	int c;
-
-	for (c = 0: c < 8; c++)
-	{
-		_putchar(a[]);
-	}
-	_putchar('\n');
-	return (0);
+	return (write(1, &c, 1));
 }
